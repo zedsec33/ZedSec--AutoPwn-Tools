@@ -8,7 +8,7 @@ Welcome to the **ZedSec AutoPwn Toolkit** – a collection of fully automated, s
 
 ---
 
-## 🚀 Featured Tool: `zedrecon.sh`
+## 🚀 Featured Tool: `Deeper_Daddy.sh`
 
 A terminal-based recon and vulnerability scanner designed for fast, deep information gathering and auto-exploitation testing.
 
@@ -34,8 +34,8 @@ A terminal-based recon and vulnerability scanner designed for fast, deep informa
 ```bash
 git clone https://github.com/YOUR_USERNAME/ZedSec-AutoPwn-Tools.git
 cd ZedSec-AutoPwn-Tools/tools
-chmod +x zedrecon.sh
-./zedrecon.sh
+chmod +x Deeper_Daddy.sh
+./Deeper_Daddy.sh
 
 ```
 
@@ -45,17 +45,17 @@ chmod +x zedrecon.sh
 
 ```
 cd ZedSec-AutoPwn-Tools/installers
-chmod +x install_zedrecon.sh
-./install_zedrecon.sh
+chmod +x install_Deeper_Daddy.sh
+./install_Deeper_Daddy.sh
 ```
 
 #### 📁 Folder Structure
 
 ZedSec-AutoPwn-Tools/
 ├── tools/
-│   └── zedrecon.sh
+│   └── Deeper_Daddy.sh
 ├── installers/
-│   └── install_zedrecon.sh
+│   └── install_Deeper_Daddy.sh
 ├── docs/
 │   └── USAGE.md
 ├── README.md
@@ -67,7 +67,7 @@ ZedSec-AutoPwn-Tools/
 Run the tool and follow the on-screen menu:
 
 ```
-./zedrecon.sh
+./Deeper_Daddy.sh
 ```
 
 **You'll be prompted to:**

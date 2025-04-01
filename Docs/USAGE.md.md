@@ -2,7 +2,7 @@
 **Run the tool and follow the on-screen menu:**
 
 ```
-./zedrecon.sh
+./Deeper_Daddy.sh
 ```
 
 **You'll be prompted to:**
